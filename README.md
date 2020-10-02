@@ -1,4 +1,4 @@
-# Kinetikeys
+# Kinetikeys - Concept0
 Type while walking
 
 ![](readme/Kinetikeys2.jpg)
@@ -31,7 +31,10 @@ Where:
 * **Tactile** - A tactile keyboard is a must-have for engineers. This must not be touch/gesture based. Again, it needs to feel familiar
 * **Qwerty** - The purpose of this iteration is not to reinvent the wheel or to rethink the concept of a keyboard. The goal is to introduce a new use-case to a keyboard form-factor people are familiar with and test the hypothesis of typing while walking.
 
+
 # Technical Notes
+![](readme/fusion360.png)
+
 - **Design** - Using Autodesk [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 - **PCB Design** - Using [EasyEDA](https://easyeda.com/)
 - **Parts** - 3D printed using [Original Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/59-original-prusa-i3-mk2-kit.html?gclid=CjwKCAjwxILdBRBqEiwAHL2R82n_dv26QGDwVplmQ5JjPbts2AS6vM7VwUfdA9-k5OvphJqExG3HoBoCetMQAvD_BwE)
