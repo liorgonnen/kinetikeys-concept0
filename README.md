@@ -8,6 +8,8 @@ Type while walking
 
 Our body is designed to be in motion. It’s not meant to be still, but most of us who work on a computer, spend most of our day sitting down, or even standing up, but we don’t move as much as our body needs.
 
+![](readme/walking.png)
+
 Sitting is considered the new smoking. People are trying to mitigate this problem in many ways: standing desks, standing chairs, fitballs, balance boards, split ergonomic keyboards, and more. The problem remains, however, that ergonomically, our work environment has changed just incrementally in decades, but the the amount of hours sitting has increased significantly.
 
 ### Introduction
@@ -36,4 +38,7 @@ Where:
 - **Keys** - [Kail Choc Low-Profile (Red)](https://novelkeys.xyz/collections/switches/products/kailh-low-profile-switches?variant=3747939680296) mechanical keys
 - **Wrist attachments** - A modified version of [HiRui wrist braces](http://a.co/d/fCxWbRO)
 - **Microcontroller** - [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all)
-- **Software** - Arduino code****
+- **Software** - Arduino code
+
+# Early Iterations
+![](readme/iterations.jpg)
