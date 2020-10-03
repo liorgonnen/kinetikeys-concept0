@@ -1,5 +1,9 @@
-# Kinetikeys - Concept0
-Type while walking
+# Kinetikeys - Concept0 - Type while walking
+
+Please check out the newer prototype I'm working on:
+[Kinetikeys-Chorder](https://github.com/liorgonnen/kinetikeys-chorder)
+
+-
 
 ![](readme/Kinetikeys2.jpg)
 
