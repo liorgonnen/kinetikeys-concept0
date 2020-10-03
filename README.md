@@ -1,9 +1,8 @@
 # Kinetikeys - Concept0 - Type while walking
 
-Please check out the newer prototype I'm working on:
+Note: Please check out the newer prototype I'm working on:
 [Kinetikeys-Chorder](https://github.com/liorgonnen/kinetikeys-chorder)
 
--
 
 ![](readme/Kinetikeys2.jpg)
 
@@ -49,3 +48,7 @@ Where:
 
 # Early Iterations
 ![](readme/iterations.jpg)
+
+# Next Concept
+See the newer concept here: [Kinetikeys-Chorder](https://github.com/liorgonnen/kinetikeys-chorder)
+
